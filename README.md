@@ -19,8 +19,19 @@ Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos </h
 </div>
 </div>
 
-## 📚 Citation
+## 🔥 Project Updates
+- **News**: ```2025/07/17```: We plan to release ```FingER-60k``` recently. Stay tuned!
 
+## 📈 Qualitative Results
+<div align=center>
+<img width="1000" alt="image" src="figs/fig_qualitative_result.png">
+</div>
+
+## 🌹 Acknowledgement
+Our work is primarily based on [VideoGen-Eval](https://github.com/AILab-CVC/VideoGen-Eval), [VLM-R1](https://github.com/om-ai-lab/VLM-R1), [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory). 
+We are sincerely grateful for their excellent works.
+
+## 📚 Citation
 If you find our paper and code helpful for your research, please consider starring our repository ⭐ and citing our work ✏️.
 ```bibtex
 @article{chen2025finger,
