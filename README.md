@@ -5,7 +5,7 @@ Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos </h
 <img width="1000" alt="image" src="figs/fig_FingER_pipeline.png">
 </div>
 <br>
-<a href='https://arxiv.org/abs/2504.10358'><img src='https://img.shields.io/badge/Arxiv-2505.14231-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
+<a href='https://arxiv.org/abs/2504.10358'><img src='https://img.shields.io/badge/Arxiv-2504.10358-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
 <br>
 <div>
 <a href="https://scholar.google.com/citations?hl=en&user=0_jpT2gAAAAJ&view_op=list_works&sortby=pubdate">Rui Chen</a>,
